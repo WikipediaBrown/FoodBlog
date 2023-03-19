@@ -1,4 +1,4 @@
-permalink: /foodblog/
+permalink: /FoodBlog/:title:output_ext
 
 collections:
   authors:
